@@ -1,3 +1,4 @@
+//prime number
 function checkprime(num){
 
 
@@ -9,7 +10,7 @@ if(num%i===0){
    count++;
 }
 } if (count==2){
-    console.log("Yes);
+    console.log("Yes");
 } else{
      console.log("No");
 }
